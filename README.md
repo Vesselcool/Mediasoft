@@ -15,7 +15,10 @@
 
 5. Перед вами реляционная модель данных. Необходимо написать SQL-запросы.
 
-![image](https://github.com/PolinaKrp/Mediasoft_SistemAnalitics/assets/114875941/0228dcbc-2561-4e7c-a417-cd1de4a87478)
+
+![image](https://github.com/user-attachments/assets/e8187f7d-b9fa-459b-b0c6-64a6f15386cc)
+
+
 	
 1)Вывести покупателей с количеством осуществленных покупок
 
